@@ -31,7 +31,7 @@
     "@types/file-saver": "^2.0.0",
     "canvas": "^2.4.1",
     "core-js": "^2.5.4",
-    "fabric": "^2.7.0",
+    "fabric": "^5.2.4",
     "file-saver": "^2.0.1",
     "hammerjs": "^2.0.8",
     "rxjs": "~6.3.3",
